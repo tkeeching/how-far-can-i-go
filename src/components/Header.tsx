@@ -7,4 +7,7 @@ export default Header;
 
 const Title = styled.h1`
   text-align: center;
+  @media (max-width: 600px) {
+    font-size: 1.5rem;
+  }
 `
