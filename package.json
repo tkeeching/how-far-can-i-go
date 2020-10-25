@@ -6,13 +6,21 @@
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
+    "@types/esri-leaflet-geocoder": "^2.2.2",
     "@types/jest": "^24.9.1",
+    "@types/leaflet-geosearch": "^2.7.1",
     "@types/node": "^12.12.69",
     "@types/react": "^16.9.53",
     "@types/react-dom": "^16.9.8",
+    "@types/styled-components": "^5.1.4",
+    "esri-leaflet-geocoder": "^2.3.3",
+    "leaflet": "^1.7.1",
+    "leaflet-geosearch": "^3.0.6",
     "react": "^17.0.0",
     "react-dom": "^17.0.0",
+    "react-leaflet": "^2.7.0",
     "react-scripts": "3.4.4",
+    "styled-components": "^5.2.0",
     "typescript": "^3.7.5"
   },
   "scripts": {
@@ -35,5 +43,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@types/react-leaflet": "^2.5.2"
   }
 }
