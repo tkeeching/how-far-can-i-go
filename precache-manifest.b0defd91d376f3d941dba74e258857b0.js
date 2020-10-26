@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1cb0fd98938e884249968c952b7e0c65",
+    "revision": "86a734d0ce065aeeb2e7159f9e03af47",
     "url": "/how-far-can-i-go/index.html"
   },
   {
-    "revision": "88df151ab6d474fdfa1f",
+    "revision": "4f8b48f70faaa40b76b5",
     "url": "/how-far-can-i-go/static/css/main.5ecd60fb.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/how-far-can-i-go/static/js/2.296a3493.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "88df151ab6d474fdfa1f",
-    "url": "/how-far-can-i-go/static/js/main.6a668940.chunk.js"
+    "revision": "4f8b48f70faaa40b76b5",
+    "url": "/how-far-can-i-go/static/js/main.3ad389d0.chunk.js"
   },
   {
     "revision": "af48bca458a44737ebac",

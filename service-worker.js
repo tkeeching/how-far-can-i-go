@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/how-far-can-i-go/precache-manifest.1658e2bf49f06a6e73aa8e4f9ee84079.js"
+  "/how-far-can-i-go/precache-manifest.b0defd91d376f3d941dba74e258857b0.js"
 );
 
 self.addEventListener('message', (event) => {
